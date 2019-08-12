@@ -1,0 +1,2 @@
+cd D:
+cd ../../Katalon_Studio_Windows_64-5.10.0katalon -noSplash  -runMode=console -consoleLog -noExit -projectPath="C:\Users\balakrishna.s\Katalon Studio\Prodapt_CICD_Katalon\Prodapt_CICD_Katalon.prj" -retry=0 -testSuitePath="Test Suites/CICDSuit" -executionProfile="default" -browserType="Chrome"
