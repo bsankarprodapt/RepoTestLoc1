@@ -1,0 +1,74 @@
+﻿{
+  "customerNumber":"1072046",
+  "name":{
+    "formOfAddress":"Mme.",
+    "firstName":"schindelholz",
+    "lastName":"castro pires domingues"
+  },
+  "type":"Regular",
+  "serviceAddress":{
+    "addressId":"1525813",
+    "city":"Bellevue",
+    "postcode":"1293",
+    "stateOrProvince":"Bellevue",
+    "countryName":"Switzerland",
+    "geographicAreas":[
+      {
+        "accessTechnology":"HFC"
+      }],
+    "additionalInfo":"Chemin de la RoseliÃ¨re 38",
+    "isDerbyStack":false
+  },
+  "contactPhoneNumbers":[
+    {
+      "type":"PRIVATE",
+      "number":"0991114805"
+    },
+    {
+      "type":"MOBILE_PRIVATE",
+      "number":"0991114805"
+    },
+    {
+      "type":"MOBILE_OFFICE",
+      "number":"0991114805"
+    }],
+  "contactEmailAddresses":[
+    "it_uat@upc.ch"],
+  "gender":"FEMALE",
+  "account":{
+    "billingStatus":"Billing Contact",
+    "foreignAccount":false,
+    "billingCycleId":0,
+    "invoiced":false,
+    "creditLimit":0.0
+  },
+  "status":"Billing Contact",
+  "dob":"22-11-1930",
+  "customerRank":0,
+  "customerExtRank":0,
+  "communicationPreferenceOptin":false,
+  "numberOfActiveLoans":0,
+  "customerAccountStatus":"ACTIVE",
+  "partnerNetwork":{
+    "partnerNetworkName":"Bellevue"
+  },
+  "marketingPreferece":[
+    {
+      "name":"MAIL",
+      "permitted":false
+    },
+    {
+      "name":"EMAIL",
+      "permitted":false
+    },
+    {
+      "name":"TELEPHONE",
+      "permitted":false
+    },
+    {
+      "name":"SMS",
+      "permitted":false
+    }],
+  "contactLanguage":"FR",
+  "contractType":"PKV"
+}
